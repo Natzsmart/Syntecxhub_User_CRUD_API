@@ -167,9 +167,9 @@ PUT /api/users/:id
 
 ## 👤 Author
 
-**Champion Effiong (Smartcodez)**  
-X: [@Natzsmart](https://x.com/Natzsmart)  
-LinkedIn: [Champion Effiong](https://linkedin.com/in/champion-effiong)
+**Iniobong Effiong (Smartcodez)**  
+X: [@Nattysmartcodez](https://x.com/Nattysmartcodez)  
+LinkedIn: [Iniobong Effiong](https://linkedin.com/in/natzsmart)
 
 ---
 
